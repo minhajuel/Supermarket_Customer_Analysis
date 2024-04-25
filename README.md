@@ -1,4 +1,4 @@
-![Header](doc/github-header-image.png)
+![Header](header.png)
 
 ### Latar Belakang
 
