@@ -1,0 +1,5 @@
+pandas==1.5.3
+numpy
+matplotlib
+seaborn
+scipy==1.11.1
